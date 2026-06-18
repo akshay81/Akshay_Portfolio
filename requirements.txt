@@ -9,6 +9,4 @@ langgraph==0.2.56
 chromadb==0.5.5
 pypdf==5.1.0
 python-dotenv==1.0.1
-pydantic==2.9.2
-pydantic-core==2.27.0
 
